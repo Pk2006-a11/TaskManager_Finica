@@ -1,0 +1,6 @@
+com\taskManager\services\TaskService.class
+com\taskManager\repository\TaskRepository.class
+com\taskManager\Exception\GlobalExceptionHandler.class
+com\taskManager\TaskManagerApplication.class
+com\taskManager\model\Task.class
+com\taskManager\controller\TaskController.class
